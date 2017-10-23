@@ -1,0 +1,29 @@
+{
+  "name": "ms2unicode",
+  "version": "0.0.1",
+  "description": "A library to convert Microsoft input characters into unicode character",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/write-for-CHRIST/ms2unicode.git"
+  },
+  "keywords": [
+    "vietnamese",
+    "unicode",
+    "microsoft",
+    "layout"
+  ],
+  "author": "Nam Pham <nampdn@protonmail.com> (https://phuc.am)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/write-for-CHRIST/ms2unicode/issues"
+  },
+  "homepage": "https://github.com/write-for-CHRIST/ms2unicode#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}

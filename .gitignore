@@ -1,0 +1,10 @@
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+.idea
+.vscode
+
+/node_modules
+/bower_components
+npm-debug.log
