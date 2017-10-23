@@ -14,7 +14,10 @@
     "vietnamese",
     "unicode",
     "microsoft",
-    "layout"
+    "layout",
+    "convert",
+    "unikey",
+    "gotiengviet"
   ],
   "author": "Nam Pham <nampdn@protonmail.com> (https://phuc.am)",
   "license": "MIT",
