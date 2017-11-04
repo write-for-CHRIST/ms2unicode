@@ -1,4 +1,6 @@
 # ms2unicode
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/write-for-CHRIST/ms2unicode.svg)](https://greenkeeper.io/)
 This small library help Vietnam developer to convert Microsoft layout input as string to the general unicode string.
 
 # How to use
